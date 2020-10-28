@@ -1,12 +1,12 @@
 # Ministry of Justice Acronyms
 
-## View the [published site here](https://ministryofjustice.github.io/acronyms/)
+## View the [published site here](https://digitalronin.github.io/acronyms/)
 
 This is a temporary replacement for the (currently defunct) "Big Book of Acronyms" web application.
 
 ## Contributing
 
-If you have a github account, you can [click here](https://github.com/ministryofjustice/acronyms/edit/main/README.md) to edit this file.
+If you have a github account, you can [click here](https://github.com/digitalronin/acronyms/edit/main/README.md) to edit this file.
 
 A better mechanism to enable people without github accounts to suggest changes will hopefully be provided in due course.
 
